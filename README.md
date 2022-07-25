@@ -1,5 +1,7 @@
 # 22S-Blockchain-Workshop
 
+Presented by: Lincoln Murr (Blockchain Club)
+
 ## Instructions
 ### Setup
 1. Install the [MetaMask Chrome plugin](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) in a Chrome browser
